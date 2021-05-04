@@ -1,0 +1,2 @@
+(self.webpackChunkcriz_games=self.webpackChunkcriz_games||[]).push([[853],{7744:function(e,t,r){"use strict";r.r(t);var a=r(7294),c=r(2243),n=r(3751),s=r(4519),l=(r(8007),r(8801));t.default=function(){var e="Other Projects";return a.createElement(c.Z,{defKey:"2"},a.createElement(n.Z,{title:e}),a.createElement(s.Z,{title:e},"Here are all my other projects from"," ",a.createElement(l.Z,{to:"https://github.com/CrizGames"},"GitHub"),"."),a.createElement("div",{className:"cardsContainer"}))}}}]);
+//# sourceMappingURL=component---src-pages-projects-js-8344f5ab8b6918ef9d85.js.map
